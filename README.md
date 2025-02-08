@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a young developer. <br/>
+I'm a french developer. <br/>
 
 
 <a href="https://github.com/chrldb">
