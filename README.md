@@ -1,11 +1,16 @@
-# Hi there 👋
+### Hi there, I'm Charles 👋
 
-I'm a french developer. <br/>
+I am a Dual Degree Engineering Student at **McGill University** (Canada) & **CentraleSupélec** (France).
 
+My work focuses on **Global Engineering**, combining rigorous mathematical modeling with pragmatic software architecture. I value optimization, logic, and system durability.
 
-<a href="https://github.com/chrldb">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrldb&show_icons=true&theme=tokyonight">
-</a>
-<a href="https://github.com/chrldb">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrldb&theme=tokyonight">
-</a>
+---
+
+### 🛠 Tech Stack
+* **Data & AI:** Python (PyTorch, Pandas, Scikit-learn), LLM Benchmarking
+* **Systems & Robotics:** C++, Arduino, Signal Processing
+* **Web & DevOps:** Linux, Docker, Full Stack Dev
+
+### 🔭 Current Focus
+* Building robust data pipelines and autonomous systems.
+* Researching LLM explainability and hallucination mitigation.
