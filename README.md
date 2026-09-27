@@ -2,7 +2,7 @@
 
 I am a Dual Degree Engineering Student at **McGill University** (Canada) & **CentraleSupélec** (France).
 
-My work focuses on **Global Engineering**, combining rigorous mathematical modeling with pragmatic software architecture. I value optimization, logic, and system durability.
+Combining rigorous mathematical modeling with pragmatic software architecture. I value optimization, logic, and system durability.
 
 ---
 
